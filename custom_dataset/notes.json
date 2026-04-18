@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bottle"
+    },
+    {
+      "id": 1,
+      "name": "chair"
+    },
+    {
+      "id": 2,
+      "name": "laptop"
+    },
+    {
+      "id": 3,
+      "name": "person"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
