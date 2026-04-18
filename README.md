@@ -4,7 +4,7 @@
 
 This project focuses on improving the training process of a 2D object detection model using YOLOv8. The objective is to evaluate how different training strategies affect detection performance and identify configurations that improve accuracy.
 
-Experiments were conducted using the COCO128 dataset, along with a custom annotated dataset to further enhance performance.
+Experiments were conducted using the COCO128 dataset, along with a custom annotated dataset to further enhance performance. See SP26 Homework2 Object Detection.docx for detailed analysis
 
 ---
 
